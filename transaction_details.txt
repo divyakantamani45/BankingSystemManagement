@@ -1,0 +1,4 @@
+1234 withdraw -50
+1236 withdraw -340
+1234 deposit 570
+1235 deposit 800
